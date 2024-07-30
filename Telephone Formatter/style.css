@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 17px;
+}
